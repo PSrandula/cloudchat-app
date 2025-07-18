@@ -1,0 +1,38 @@
+{
+  "name": "cloudchat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A colorful real-time cloud chat app built with React, Firebase, and Tailwind CSS.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^11.10.0",
+    "framer-motion": "^12.23.6",
+    "lucide-react": "^0.525.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.23.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.2.0"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "firebase",
+    "tailwindcss",
+    "chat",
+    "cloudchat"
+  ],
+  "author": "YourName",
+  "license": "MIT"
+}
