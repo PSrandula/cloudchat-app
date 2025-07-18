@@ -43,7 +43,7 @@ VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 VITE_FIREBASE_DATABASE_URL=your_database_url
 VITE_IMGBB_API_KEY=your_imgbb_api_key
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 Clone this repository:
 
 git clone https://github.com/your-username/cloudchat.git
