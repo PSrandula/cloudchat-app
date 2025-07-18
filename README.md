@@ -46,7 +46,7 @@ VITE_IMGBB_API_KEY=your_imgbb_api_key
 ## 🚀 How to Run Locally
 Clone this repository:
 
-git clone https://github.com/your-username/cloudchat.git
+git clone https://github.com/PSrandula/cloudchat-app.git
 cd cloudchat
 
 Install dependencies:
