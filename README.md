@@ -1,6 +1,6 @@
 # 🌩️ CloudChat – Real-Time Chat Application
 
-CloudChat is a Firebase-based real-time chat application built as part of the DETZ Global Internship program (Task 5). It supports real-time messaging, user authentication, and responsive design with optional features like image sharing.
+CloudChat is a Firebase-based real-time chat application. It supports real-time messaging, user authentication, and responsive design with optional features like image sharing.
 
 ## 👨‍💻 Team Members
 - Sudesi Samarakoon  
